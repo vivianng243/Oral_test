@@ -10,3 +10,5 @@
 #Commit 4A: I like to study about Git
 
 #Commit to reset
+
+#Post-reset commit 
